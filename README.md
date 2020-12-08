@@ -8,6 +8,3 @@ The goal is to predict what passengers would survive the Titanic sink, based on 
 - Decision Tree: 78% accuracy
 - Random Forest Classifier: 80% accuracy
 - Ensemble Model: 93% accuracy
-
-## Tools
-Python, pandas, scikit-learn
